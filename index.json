@@ -1,0 +1,14 @@
+//Fichier index avec toutes les map indexes dedans
+{
+    //Example:
+    // "Example": //Map name
+    // {
+    //     "Lines": true, //has lines support,
+    //     "SpecialLines": [ //Only necessary with lines that have wierd names.
+    //         {
+    //             "oName": "91.06", //Name in OMSI
+    //             "nName": "91_06" //New modified name
+    //         }   
+    //     ]
+    // }
+}
