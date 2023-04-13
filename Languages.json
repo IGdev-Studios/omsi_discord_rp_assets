@@ -43,6 +43,11 @@
 		"Image": {
 			"Map": "Roule sur la map: ",
 			"Ligne": "Roule sur la ligne: "
+		},
+		"Vehicule": {
+			"Details": "Bus: ",
+			"State1": "Map: ",
+			"State2": "Ligne: "
 		}
 	},
 	"en": {
@@ -84,6 +89,11 @@
 		"Image": {
 			"Map": "Driving on the map: ",
 			"Ligne": "Driving on the line: "
+		},
+		"Vehicule": {
+			"Details": "Bus: ",
+			"State1": "Map: ",
+			"State2": "Line: "
 		}
 	},
 
@@ -126,6 +136,11 @@
 		"Image": {
 			"Map": "Kör på kartan: ",
 			"Ligne": "Kör på linjen: "
+		},
+		"Vehicule": {
+			"Details": "Bussen: ",
+			"State1": "Kartan: ",
+			"State2": "Linjen: "
 		}
 	},
 	"de": {
@@ -167,6 +182,12 @@
 		"Image": {
 			"Map": "Fährt auf Karte: ",
 			"Ligne": "Fährt auf Linie: "
+		},
+
+		"Vehicule": {
+			"Details": "Bus: ",
+			"State1": "Karte: ",
+			"State2": "Linie: "
 		}
 	}
 }
