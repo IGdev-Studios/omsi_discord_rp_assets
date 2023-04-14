@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Citadis",
+      "name": "Citadis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45082212?v=4",
+      "profile": "https://github.com/Citadis",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "omsi_discord_rp_assets",
+  "projectOwner": "IGdev-Studios"
+}
