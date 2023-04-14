@@ -44,10 +44,11 @@
 			"Map": "Roule sur la map: ",
 			"Ligne": "Roule sur la ligne: "
 		},
+		//Available vars: {fabricant} | {model} | {map} | {ligne}
 		"Vehicule": {
-			"Details": "Bus: ",
-			"State1": "Map: ",
-			"State2": "Ligne: "
+			"Details": "Bus: {fabricant} | {model}",
+			"State1": "Map: {map}",
+			"State2": "Ligne: {ligne}"
 		}
 	},
 	"en": {
@@ -91,9 +92,9 @@
 			"Ligne": "Driving on the line: "
 		},
 		"Vehicule": {
-			"Details": "Bus: ",
-			"State1": "Map: ",
-			"State2": "Line: "
+			"Details": "Bus: {fabricant} | {model}",
+			"State1": "Map: {map}",
+			"State2": "Line: {ligne}"
 		}
 	},
 
@@ -138,9 +139,9 @@
 			"Ligne": "Kör på linjen: "
 		},
 		"Vehicule": {
-			"Details": "Bussen: ",
-			"State1": "Kartan: ",
-			"State2": "Linjen: "
+			"Details": "Bussen: {fabricant} | {model}",
+			"State1": "Kartan: {map}",
+			"State2": "Linjen: {ligne}"
 		}
 	},
 	"de": {
@@ -185,9 +186,9 @@
 		},
 
 		"Vehicule": {
-			"Details": "Bus: ",
-			"State1": "Karte: ",
-			"State2": "Linie: "
+			"Details": "Bus: {fabricant} | {model}",
+			"State1": "Karte: {map}",
+			"State2": "Linie: {ligne}"
 		}
 	}
 }
