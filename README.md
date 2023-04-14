@@ -31,6 +31,8 @@ Vous pouvez ensuite supprimer le plugin du dossier `plugins` car il causera du l
 
 Pour finir il suffit de faire un pull request et nous vérifierons si tout est en ordre avant de rajouter dans la branche principale et tout devrait fonctionner apres!
 
+Je modifie des truc que je ne devrai pas!
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

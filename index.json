@@ -2,5 +2,6 @@
 {
     //Example:
     // "Example": boolean // true - Map name and lines support // false - only map icon
-    "Grand Paris-Moulon": true
+    "Grand Paris-Moulon": true,
+    "St-Servan": true
 }
