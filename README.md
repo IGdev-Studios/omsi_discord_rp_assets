@@ -1,6 +1,6 @@
 # omsi_discord_rp_assets
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Assets for the OMSI 2 discord rich presence
@@ -42,6 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Citadis"><img src="https://avatars.githubusercontent.com/u/45082212?v=4?s=100" width="100px;" alt="Citadis"/><br /><sub><b>Citadis</b></sub></a><br /><a href="#content-Citadis" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/boingtheboeing"><img src="https://avatars.githubusercontent.com/u/76058130?v=4?s=100" width="100px;" alt="boingtheboeing"/><br /><sub><b>boingtheboeing</b></sub></a><br /><a href="https://github.com/IGdev-Studios/omsi_discord_rp_assets/commits?author=boingtheboeing" title="Code">💻</a> <a href="#content-boingtheboeing" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
