@@ -1,0 +1,6 @@
+//Fichier index avec toutes les map indexes dedans
+{
+    //Example:
+    // "Example": true //Map name and lines support or only map icon
+    "Grand Paris-Moulon": true
+}

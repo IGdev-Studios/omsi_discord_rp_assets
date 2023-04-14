@@ -1,0 +1,194 @@
+{
+	//alors la on mets la locale de la langue (ca se trouve ici https://www.ibm.com/docs/en/radfws/9.6.1?topic=overview-locales-code-pages-supported)
+	//mais sans le _.. juste la langue pas le pays.
+	"fr": {
+		"Menu": {
+			//PresenceTypes.Menu
+			"Details": "Dans le menu",
+			"State": "Sélectionne la map"
+		},
+		"Roule": {
+			//PresenceTypes.Roule
+			"Details": "Roule, vitesse: ", //le reste du string est concat et est focement en KMH pr le moment
+			"NState": "Prochain arrêt: ", //Pas oublier l'espace a la fin sinon ca va etre mocheuu
+			"DState": "Distance au prochain arrêt: "
+		},
+		"Arret": {
+			//PresenceTypes.Arret
+			"Details": "A l'arrêt",
+			"State": "Jeu libre"
+		},
+		"ArretSched_Stop": {
+			//PresenceTypes.ArretSched_Stop
+			"Avance": "En avance de: ",
+			"Retard": "En retard de:",
+			"Details": "A l'arrêt: ",
+			"State": "Nombre de passagers a bord: "
+		},
+		"ArretSched_Roule": {
+			//PresenceTypes.ArretSched_Roule
+			"Details": "A l'arrêt",
+			"NState": "Prochain arrêt: ",
+			"DState": "Distance au prochain arrêt: "
+		},
+		"Pause": {
+			//PresenceTypes.Pause
+			"Details": "Jeu en pause"
+		},
+		"Default": {
+			//Pas dans PresenceTypes car c'est la quand ya une erreur (il ne devrait jamais se declencher celui la)
+			"Details": "Joue a OMSI",
+			"State": "Erreur dans le plugin"
+		},
+		"Image": {
+			"Map": "Roule sur la map: ",
+			"Ligne": "Roule sur la ligne: "
+		},
+		//Available vars: {fabricant} | {model} | {map} | {ligne}
+		"Vehicule": {
+			"Details": "Bus: ",
+			"State1": "Map: ",
+			"State2": "Ligne: "
+		}
+	},
+	"en": {
+		"Menu": {
+			"Details": "In the menu",
+			"State": "Choosing the map"
+		},
+		"Roule": {
+			"Details": "Driving, map: ",
+			"NState": "Next stop: ",
+			"DState": "Distance to the next stop: "
+		},
+		"Arret": {
+
+			"Details": "Bus stopped",
+			"State": "Free driving"
+		},
+		"ArretSched_Stop": {
+
+			"Avance": "In advance of : ",
+			"Retard": "Late of :",
+			"Details": "Current stop : ",
+			"State": "Amount of passengers on board : "
+		},
+		"ArretSched_Roule": {
+
+			"Details": "Bus stopped",
+			"NState": "Next stop: ",
+			"DState": "Distance to the next stop: "
+		},
+		"Pause": {
+
+			"Details": "Game paused"
+		},
+		"Default": {
+			"Details": "Playing OMSI",
+			"State": "Error in the Plugin"
+		},
+		"Image": {
+			"Map": "Driving on the map: ",
+			"Ligne": "Driving on the line: "
+		},
+		"Vehicule": {
+			"Details": "Bus: ",
+			"State1": "Map: ",
+			"State2": "Line: "
+		}
+	},
+
+	"sv": {
+		"Menu": {
+			"Details": "I menyn",
+			"State": "Väljer kartan"
+		},
+		"Roule": {
+			"Details": "Kör, kartan: ",
+			"NState": "Nästa hållplats : ",
+			"DState": "Avstånd till nästa hållplats: "
+		},
+		"Arret": {
+
+			"Details": "Bussen stannade",
+			"State": "Fri körning"
+		},
+		"ArretSched_Stop": {
+
+			"Avance": "I förväg : ",
+			"Retard": "Sent av :",
+			"Details": "Nuvarande hållplats : ",
+			"State": "Antal passagerare ombord : "
+		},
+		"ArretSched_Roule": {
+
+			"Details": "Bussen stannade",
+			"NState": "Nästa hållplats : ",
+			"DState": "Avstånd till nästa hållplats: "
+		},
+		"Pause": {
+
+			"Details": "Spelet pausat"
+		},
+		"Default": {
+			"Details": "Spelar OMSI",
+			"State": "Fel i Plugin"
+		},
+		"Image": {
+			"Map": "Kör på kartan: ",
+			"Ligne": "Kör på linjen: "
+		},
+		"Vehicule": {
+			"Details": "Bussen: ",
+			"State1": "Kartan: ",
+			"State2": "Linjen: "
+		}
+	},
+	"de": {
+		"Menu": {
+			"Details": "Im Menü",
+			"State": "Wählt Karte aus"
+		},
+		"Roule": {
+			"Details": "Fährt auf Karte: ",
+			"NState": "Nächste Haltestelle: ",
+			"DState": "Entfernung von nächster Haltestelle: "
+		},
+		"Arret": {
+
+			"Details": "Bus steht",
+			"State": "Freies Fahren"
+		},
+		"ArretSched_Stop": {
+
+			"Avance": "In advance of : ",
+			"Retard": "Verspätung:",
+			"Details": "Aktuelle Haltestelle: ",
+			"State": "Fahrgastanzahl: "
+		},
+		"ArretSched_Roule": {
+
+			"Details": "Bus steht",
+			"NState": "Nächste Haltestelle: ",
+			"DState": "Entfernung von nächster Haltestelle: "
+		},
+		"Pause": {
+
+			"Details": "Spiel pausiert"
+		},
+		"Default": {
+			"Details": "Playing OMSI",
+			"State": "Plugin-Fehler"
+		},
+		"Image": {
+			"Map": "Fährt auf Karte: ",
+			"Ligne": "Fährt auf Linie: "
+		},
+
+		"Vehicule": {
+			"Details": "Bus: ",
+			"State1": "Karte: ",
+			"State2": "Linie: "
+		}
+	}
+}
