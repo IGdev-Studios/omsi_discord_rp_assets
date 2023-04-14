@@ -29,7 +29,7 @@ Ensuite démarrez la map en question et faites spawn un bus (n'importe lequel ce
 Pour finir il suffit de rajouter dans le dossier de votre map le fichier `TrackExporter.txt` qui contiendra le nom de toutes les lignes de la map.  
 Vous pouvez ensuite supprimer le plugin du dossier `plugins` car il causera du lag pour rien.
 
-Pour finir il suffit de faire un pull request et nous vérifierons si tout est en ordre avant de rajouter dans la branche principale et tout devrait fonctionner apres!
+Pour finir il faut juste commit les changements dans la branche `Contribution`!
 
 ## Contributors ✨
 
