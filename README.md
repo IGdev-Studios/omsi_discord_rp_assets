@@ -15,22 +15,49 @@ Deja, merci de presenter un intérêt pour le plugin.
 
 Afin de contribuer il faut faire un nouveau dossier dans lequel on mets:
 
-`{nom de dossier}`: le nom du dossier (nom de la map que l'on souhaite rajouter en **minuscules** cela peut se trouver dans la première entree du `global.cfg` de la map).
+`{nom de dossier}`: le nom du dossier (nom de la map que l'on souhaite rajouter cela peut se trouver dans la première entree du `global.cfg` de la map).
 
-`{nom de la map (meme que celui du dossier)}.png`: L’icône de la map en question en .png et de au moins **1024 par 1024 pixels**.
+`{nom de la map (meme que celui du dossier)}.png`: L’icône de la map en question, en .png et de au moins **1024 par 1024 pixels**.
 
 `{nom de la ligne}.png`: **OBLIGATOIREMENT** en .png et de au moins **512 par 512 pixels** (si possible faites les en `svg` ou `ai` et rajoutez les aussi).
 
-Important: Le nom de la ligne correspond exactement au nom que il est écrit lorsque vous prenez un service dans la case ligne n°: Dans OMSI.
+**Important: **Le nom de la ligne correspond exactement au nom que il est écrit lorsque vous prenez un service dans la case ligne n°: Dans OMSI.
 
 Afin de simplifier le développement vous pouvez télécharger une version "simplifie du plugin" pour trouver tout les noms de ligne.  
-Pour se faire il faut télécharger le [plugin](https://github.com/IGdev-Studios/omsi_discord_rp_assets/raw/main/plugins.zip) et le glisser dans le dossier `plugins de OMSI 2`.  
+Pour se faire il faut télécharger le [plugin](https://github.com/IGdev-Studios/omsi_discord_rp_assets/raw/main/plugins.zip) et le glisser dans le dossier `plugins` de OMSI 2.  
 Ensuite démarrez la map en question et faites spawn un bus (n'importe lequel cela ne change rien).  
 Pour finir il suffit de rajouter dans le dossier de votre map le fichier `TrackExporter.txt` qui contiendra le nom de toutes les lignes de la map.  
 Vous pouvez ensuite supprimer le plugin du dossier `plugins` car il causera du lag pour rien.
 
 Pour finir il suffit de commit (cela va créer un fork) et apres de faire un pull request!
 
+---
+
+## English:
+
+### **How to contribute: **
+
+First of all, thank you for having an interest in the plugin.
+
+To contribute you need to create a new folder in which you place:
+
+`{folder name}`: the name of the folder (name of the map that you want to add, you can find this in the first entry of the `global.cfg` inside the maps folder).
+
+`{name of the map (same as the folder name).png}`: the map icon, it has to be in .png format! and at least **1024 by 1024 pixels**.
+
+`{name of the line}.png` **Mandatory** to be in .png format (like all the images) and at least **512 by 512 pixels** (if possible add your orignal files like the `.svg` or `.ai` or even `.psd`)
+
+**Important: **The name of the line corresponds exactly to the name that is written when you take a trip in the position line n°: In OMSI.
+
+To simplify your development process you can download a "simplified" version of the plugin to find the names of the lines. 
+To do so you need to download the [plugin](https://github.com/IGdev-Studios/omsi_discord_rp_assets/raw/main/plugins.zip) and extract it to the `plugins` folder of OMSI 2. 
+Once done you start OMSI and load into the map that you want to add, spawn a bus (any bus it doesn't matter!). 
+To finish you can add in the folder the file `TrackExporter.txt` which contains all the line names of the map (the bigger the map the more lag it makes so don't worry if OMSI "crashes" it's just loading.) 
+Finally you can delete the `Track-Exporter` plugin, since it will cause some unnecessary lag for nothing.
+
+To finish you can commit your changes (it will create a fork) and make a pull request!
+
+---
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
