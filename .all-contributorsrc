@@ -6,16 +6,7 @@
   "commit": false,
   "commitConvention": "angular",
   "contributors": [
-    {
-      "login": "Citadis",
-      "name": "Citadis",
-      "avatar_url": "https://avatars.githubusercontent.com/u/45082212?v=4",
-      "profile": "https://github.com/Citadis",
-      "contributions": [
-        "content"
-      ]
-    },
-    {
+        {
       "login": "boingtheboeing",
       "name": "boingtheboeing",
       "avatar_url": "https://avatars.githubusercontent.com/u/76058130?v=4",
@@ -24,7 +15,17 @@
         "code",
         "content"
       ]
+    },
+    {
+      "login": "Citadis",
+      "name": "Citadis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45082212?v=4",
+      "profile": "https://github.com/Citadis",
+      "contributions": [
+        "content"
+      ]
     }
+
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
