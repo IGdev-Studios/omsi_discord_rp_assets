@@ -44,7 +44,6 @@
 			"Map": "Roule sur la map: ",
 			"Ligne": "Roule sur la ligne: "
 		},
-		//Available vars: {fabricant} | {model} | {map} | {ligne}
 		"Vehicule": {
 			"Details": "Bus: ",
 			"State1": "Map: ",
@@ -189,6 +188,48 @@
 			"Details": "Bus: ",
 			"State1": "Karte: ",
 			"State2": "Linie: "
+		}
+	},
+	"hu": {
+		"Menu": {
+			"Details": "Menüben",
+			"State": "Pályaválasztás"
+		},
+		"Roule": {
+			"Details": "Vezetés, pálya: ",
+			"NState": "Következő megálló: ",
+			"DState": "Távolság a következő megállóig: "
+		},
+		"Arret": {
+			"Details": "A busz megállt",
+			"State": "Szabadvezetés"
+		},
+		"ArretSched_Stop": {
+			"Avance": "Hátralévő idő : ",
+			"Retard": "Késésben :",
+			"Details": "Aktuális megálló : ",
+			"State": "Utasok száma a járművön : "
+		},
+		"ArretSched_Roule": {
+			"Details": "A busz megállt",
+			"NState": "Következő megálló: ",
+			"DState": "Távolság a következő megállóig: "
+		},
+		"Pause": {
+			"Details": "Játék megállítva"
+		},
+		"Default": {
+			"Details": "OMSI-val játszik",
+			"State": "Hiba a pluginban"
+		},
+		"Image": {
+			"Map": "Ezen a pályán vezet: ",
+			"Ligne": "Ezen a vonalon közlekedik: "
+		},
+		"Vehicule": {
+			"Details": "Bus: ",
+			"State1": "Map: ",
+			"State2": "Ligne: "
 		}
 	}
 }
