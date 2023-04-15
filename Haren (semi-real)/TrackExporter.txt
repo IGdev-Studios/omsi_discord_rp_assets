@@ -1,0 +1,369 @@
+[15/04/23 13:56:12:62] connection a OMSI
+[15/04/23 13:56:12:62] Tout est bon!
+[15/04/23 13:58:03:95] Map trouvé: Haren (semi-real)
+[15/04/23 13:58:04:28] index: 0
+Name: 12_HBF_MBS
+Line: 12
+[15/04/23 13:58:04:59] index: 1
+Name: 12_MBS_HBF
+Line: 12
+[15/04/23 13:58:04:89] index: 2
+Name: 16_ALB_HBF
+Line: 16
+[15/04/23 13:58:05:19] index: 3
+Name: 16_HBF_ALB
+Line: 16
+[15/04/23 13:58:05:48] index: 4
+Name: 17_BUN_SBF
+Line: 17
+[15/04/23 13:58:05:78] index: 5
+Name: 17_BUN_SSL
+Line: 17
+[15/04/23 13:58:06:08] index: 6
+Name: 17_LLS_SBF
+Line: 17
+[15/04/23 13:58:06:37] index: 7
+Name: 17_SBFa_BUN
+Line: 17
+[15/04/23 13:58:06:67] index: 8
+Name: 17_SBFa_LLSA
+Line: 17
+[15/04/23 13:58:06:96] index: 9
+Name: 17_SBF_BUN
+Line: 17
+[15/04/23 13:58:07:26] index: 10
+Name: 17_SBF_BUN21
+Line: 17
+[15/04/23 13:58:07:56] index: 11
+Name: 17_SSL_BUN
+Line: 17
+[15/04/23 13:58:07:85] index: 12
+Name: 17_SSL_BUN21
+Line: 17
+[15/04/23 13:58:08:16] index: 13
+Name: 19_HBF_MHS
+Line: 19
+[15/04/23 13:58:08:46] index: 14
+Name: 19_MHS_HBF
+Line: 19
+[15/04/23 13:58:08:75] index: 15
+Name: 20_HBF_MBF
+Line: 20
+[15/04/23 13:58:09:04] index: 16
+Name: 20_HBF_SSL
+Line: 20
+[15/04/23 13:58:09:33] index: 17
+Name: 20_MBF_HBF
+Line: 20
+[15/04/23 13:58:09:62] index: 18
+Name: 20_SSL_HBF
+Line: 20
+[15/04/23 13:58:09:91] index: 19
+Name: 21_BUN_ZOB
+Line: 21
+[15/04/23 13:58:10:21] index: 20
+Name: 21_ZOB_BUN
+Line: 21
+[15/04/23 13:58:10:49] index: 21
+Name: 21_ZOB_BUN17
+Line: 21
+[15/04/23 13:58:10:79] index: 22
+Name: 23_HBF_KUEN
+Line: 23
+[15/04/23 13:58:11:08] index: 23
+Name: 23_KUEN_HBF
+Line: 23
+[15/04/23 13:58:11:38] index: 24
+Name: 24_HBF_KLF
+Line: 24
+[15/04/23 13:58:11:68] index: 25
+Name: 24_KLF_HBF
+Line: 24
+[15/04/23 13:58:11:97] index: 26
+Name: 26_SBF_VLS
+Line: 26
+[15/04/23 13:58:12:27] index: 27
+Name: 26_VLS_SBF
+Line: 26
+[15/04/23 13:58:12:56] index: 28
+Name: B_BTHS_MBF
+Line: B
+[15/04/23 13:58:12:85] index: 29
+Name: B_BTH_BUN17
+Line: B
+[15/04/23 13:58:13:14] index: 30
+Name: B_BTH_HBF
+Line: B
+[15/04/23 13:58:13:44] index: 31
+Name: B_BTH_LLSE
+Line: B
+[15/04/23 13:58:13:74] index: 32
+Name: B_BTH_MBF
+Line: B
+[15/04/23 13:58:14:04] index: 33
+Name: B_BTH_SBFa
+Line: B
+[15/04/23 13:58:14:34] index: 34
+Name: B_BTH_ZOB21
+Line: B
+[15/04/23 13:58:14:64] index: 35
+Name: B_BUN17_BTH
+Line: B
+[15/04/23 13:58:14:93] index: 36
+Name: B_BUN17_ZOB21
+Line: B
+[15/04/23 13:58:15:23] index: 37
+Name: B_HBF_BTH
+Line: B
+[15/04/23 13:58:15:52] index: 38
+Name: B_HBF_BTHS
+Line: B
+[15/04/23 13:58:15:82] index: 39
+Name: B_LLS_BTH
+Line: B
+[15/04/23 13:58:16:11] index: 40
+Name: B_MBF_BTH
+Line: B
+[15/04/23 13:58:16:41] index: 41
+Name: B_MBF_BTHS
+Line: B
+[15/04/23 13:58:16:71] index: 42
+Name: B_MBF_SBFa
+Line: B
+[15/04/23 13:58:17:01] index: 43
+Name: B_SBF_BTH
+Line: B
+[15/04/23 13:58:17:32] index: 44
+Name: B_SBF_ZOB21
+Line: B
+[15/04/23 13:58:17:62] index: 45
+Name: B_ZOB21_BTH
+Line: B
+[15/04/23 13:58:17:91] index: 46
+Name: B_ZOB21_LLSE
+Line: B
+[15/04/23 13:58:18:21] index: 47
+Name: N6_ALB_HBF
+Line: N6
+[15/04/23 13:58:18:51] index: 48
+Name: N6_HBF_ALB
+Line: N6
+[15/04/23 13:58:18:80] index: 49
+Name: N7_HBF_SBF
+Line: N7
+[15/04/23 13:58:19:11] index: 50
+Name: N7_SBF_HBF
+Line: N7
+[15/04/23 13:58:19:41] index: 51
+Name: RB73
+Line: RB73
+[15/04/23 13:58:19:71] index: 52
+Name: RB73_2
+Line: RB73
+[15/04/23 13:58:20:00] index: 53
+Name: RB_Mo_1
+Line: 
+[15/04/23 13:58:20:30] index: 54
+Name: RB_Mo_2
+Line: 
+[15/04/23 13:58:20:60] index: 55
+Name: RB_S_1
+Line: 
+[15/04/23 13:58:20:89] index: 56
+Name: RB_S_2
+Line: 
+[15/04/23 13:58:21:19] index: 57
+Name: RE6_1
+Line: RE6
+[15/04/23 13:58:21:49] index: 58
+Name: RE6_2
+Line: RE6
+[15/04/23 13:58:21:77] index: 59
+Name: RE_S_1
+Line: 
+[15/04/23 13:58:22:07] index: 60
+Name: RE_S_2
+Line: 
+[15/04/23 13:58:22:37] index: 61
+Name: 12_HBF_MBS
+Line: 12
+[15/04/23 13:58:22:67] index: 62
+Name: 12_MBS_HBF
+Line: 12
+[15/04/23 13:58:22:96] index: 63
+Name: 16_ALB_HBF
+Line: 16
+[15/04/23 13:58:23:26] index: 64
+Name: 16_HBF_ALB
+Line: 16
+[15/04/23 13:58:23:55] index: 65
+Name: 17_BUN_SBF
+Line: 17
+[15/04/23 13:58:23:84] index: 66
+Name: 17_BUN_SSL
+Line: 17
+[15/04/23 13:58:24:14] index: 67
+Name: 17_LLS_SBF
+Line: 17
+[15/04/23 13:58:24:43] index: 68
+Name: 17_SBFa_BUN
+Line: 17
+[15/04/23 13:58:24:73] index: 69
+Name: 17_SBFa_LLSA
+Line: 17
+[15/04/23 13:58:25:02] index: 70
+Name: 17_SBF_BUN
+Line: 17
+[15/04/23 13:58:25:32] index: 71
+Name: 17_SBF_BUN21
+Line: 17
+[15/04/23 13:58:25:61] index: 72
+Name: 17_SSL_BUN
+Line: 17
+[15/04/23 13:58:25:91] index: 73
+Name: 17_SSL_BUN21
+Line: 17
+[15/04/23 13:58:26:21] index: 74
+Name: 19_HBF_MHS
+Line: 19
+[15/04/23 13:58:26:51] index: 75
+Name: 19_MHS_HBF
+Line: 19
+[15/04/23 13:58:26:80] index: 76
+Name: 20_HBF_MBF
+Line: 20
+[15/04/23 13:58:27:09] index: 77
+Name: 20_HBF_SSL
+Line: 20
+[15/04/23 13:58:27:40] index: 78
+Name: 20_MBF_HBF
+Line: 20
+[15/04/23 13:58:27:68] index: 79
+Name: 20_SSL_HBF
+Line: 20
+[15/04/23 13:58:27:97] index: 80
+Name: 21_BUN_ZOB
+Line: 21
+[15/04/23 13:58:28:28] index: 81
+Name: 21_ZOB_BUN
+Line: 21
+[15/04/23 13:58:28:57] index: 82
+Name: 21_ZOB_BUN17
+Line: 21
+[15/04/23 13:58:28:86] index: 83
+Name: 23_HBF_KUEN
+Line: 23
+[15/04/23 13:58:29:16] index: 84
+Name: 23_KUEN_HBF
+Line: 23
+[15/04/23 13:58:29:45] index: 85
+Name: 24_HBF_KLF
+Line: 24
+[15/04/23 13:58:29:77] index: 86
+Name: 24_KLF_HBF
+Line: 24
+[15/04/23 13:58:30:06] index: 87
+Name: 26_SBF_VLS
+Line: 26
+[15/04/23 13:58:30:36] index: 88
+Name: 26_VLS_SBF
+Line: 26
+[15/04/23 13:58:30:65] index: 89
+Name: B_BTHS_MBF
+Line: B
+[15/04/23 13:58:30:94] index: 90
+Name: B_BTH_BUN17
+Line: B
+[15/04/23 13:58:31:24] index: 91
+Name: B_BTH_HBF
+Line: B
+[15/04/23 13:58:31:53] index: 92
+Name: B_BTH_LLSE
+Line: B
+[15/04/23 13:58:31:82] index: 93
+Name: B_BTH_MBF
+Line: B
+[15/04/23 13:58:32:10] index: 94
+Name: B_BTH_SBFa
+Line: B
+[15/04/23 13:58:32:40] index: 95
+Name: B_BTH_ZOB21
+Line: B
+[15/04/23 13:58:32:70] index: 96
+Name: B_BUN17_BTH
+Line: B
+[15/04/23 13:58:32:99] index: 97
+Name: B_BUN17_ZOB21
+Line: B
+[15/04/23 13:58:33:29] index: 98
+Name: B_HBF_BTH
+Line: B
+[15/04/23 13:58:33:58] index: 99
+Name: B_HBF_BTHS
+Line: B
+[15/04/23 13:58:33:87] index: 100
+Name: B_LLS_BTH
+Line: B
+[15/04/23 13:58:34:16] index: 101
+Name: B_MBF_BTH
+Line: B
+[15/04/23 13:58:34:46] index: 102
+Name: B_MBF_BTHS
+Line: B
+[15/04/23 13:58:34:77] index: 103
+Name: B_MBF_SBFa
+Line: B
+[15/04/23 13:58:35:06] index: 104
+Name: B_SBF_BTH
+Line: B
+[15/04/23 13:58:35:35] index: 105
+Name: B_SBF_ZOB21
+Line: B
+[15/04/23 13:58:35:66] index: 106
+Name: B_ZOB21_BTH
+Line: B
+[15/04/23 13:58:35:95] index: 107
+Name: B_ZOB21_LLSE
+Line: B
+[15/04/23 13:58:36:26] index: 108
+Name: N6_ALB_HBF
+Line: N6
+[15/04/23 13:58:36:55] index: 109
+Name: N6_HBF_ALB
+Line: N6
+[15/04/23 13:58:36:85] index: 110
+Name: N7_HBF_SBF
+Line: N7
+[15/04/23 13:58:37:14] index: 111
+Name: N7_SBF_HBF
+Line: N7
+[15/04/23 13:58:37:44] index: 112
+Name: RB73
+Line: RB73
+[15/04/23 13:58:37:73] index: 113
+Name: RB73_2
+Line: RB73
+[15/04/23 13:58:38:02] index: 114
+Name: RB_Mo_1
+Line: 
+[15/04/23 13:58:38:32] index: 115
+Name: RB_Mo_2
+Line: 
+[15/04/23 13:58:38:61] index: 116
+Name: RB_S_1
+Line: 
+[15/04/23 13:58:38:90] index: 117
+Name: RB_S_2
+Line: 
+[15/04/23 13:58:39:19] index: 118
+Name: RE6_1
+Line: RE6
+[15/04/23 13:58:39:49] index: 119
+Name: RE6_2
+Line: RE6
+[15/04/23 13:58:39:78] index: 120
+Name: RE_S_1
+Line: 
+[15/04/23 13:58:40:07] index: 121
+Name: RE_S_2
+Line: 
