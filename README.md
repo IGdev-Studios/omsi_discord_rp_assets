@@ -6,6 +6,13 @@
 Assets for the OMSI 2 discord rich presence
 
 ---
+# List of available languages (to enter in the config.json)
+
+- Français: `fr`
+- English: `en`
+- svenska: `sv`
+- Deutsch: `de`
+---
 
 ## Français:
 
