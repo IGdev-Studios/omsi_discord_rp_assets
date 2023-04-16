@@ -160,8 +160,8 @@
 		},
 		"ArretSched_Stop": {
 
-			"Avance": "In advance of : ",
-			"Retard": "Verspätung:",
+			"Avance": "Verbleibende Zeit: ",
+			"Retard": "Verspätung: ",
 			"Details": "Aktuelle Haltestelle: ",
 			"State": "Fahrgastanzahl: "
 		},
@@ -176,7 +176,7 @@
 			"Details": "Spiel pausiert"
 		},
 		"Default": {
-			"Details": "Playing OMSI",
+			"Details": "Spielt OMSI",
 			"State": "Plugin-Fehler"
 		},
 		"Image": {
