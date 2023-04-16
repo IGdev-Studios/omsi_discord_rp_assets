@@ -6,7 +6,7 @@
   "commit": false,
   "commitConvention": "angular",
   "contributors": [
-        {
+    {
       "login": "boingtheboeing",
       "name": "boingtheboeing",
       "avatar_url": "https://avatars.githubusercontent.com/u/76058130?v=4",
@@ -24,8 +24,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "pietr26",
+      "name": "Piet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96007573?v=4",
+      "profile": "https://reboot.omsi-webdisk.de/community/user/7455-bamp/",
+      "contributions": [
+        "content"
+      ]
     }
-
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
