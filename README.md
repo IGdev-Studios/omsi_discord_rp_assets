@@ -1,6 +1,6 @@
 # omsi_discord_rp_assets
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Assets for the OMSI 2 discord rich presence
@@ -79,6 +79,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Citadis"><img src="https://avatars.githubusercontent.com/u/45082212?v=4?s=100" width="100px;" alt="Citadis"/><br /><sub><b>Citadis</b></sub></a><br /><a href="#content-Citadis" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://reboot.omsi-webdisk.de/community/user/7455-bamp/"><img src="https://avatars.githubusercontent.com/u/96007573?v=4?s=100" width="100px;" alt="Piet"/><br /><sub><b>Piet</b></sub></a><br /><a href="#content-pietr26" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ma7t3"><img src="https://avatars.githubusercontent.com/u/104677051?v=4?s=100" width="100px;" alt="ma7t3"/><br /><sub><b>ma7t3</b></sub></a><br /><a href="#content-ma7t3" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://genav.ch"><img src="https://avatars.githubusercontent.com/u/994583?v=4?s=100" width="100px;" alt="Adam Mathieson"/><br /><sub><b>Adam Mathieson</b></sub></a><br /><a href="#content-winer222" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
