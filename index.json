@@ -3,6 +3,7 @@
     //Example:
     // "Example": boolean // true - Map name and lines support // false - only map icon
     "Grand Paris-Moulon": true,
+    "Berny": true,
     "St-Servan": true,
 	"Haren (semi-real)": true,
 	"Steinkirchen V2": true,
