@@ -1,6 +1,6 @@
 # omsi_discord_rp_assets
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Assets for the OMSI 2 discord rich presence
@@ -82,6 +82,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ma7t3"><img src="https://avatars.githubusercontent.com/u/104677051?v=4?s=100" width="100px;" alt="ma7t3"/><br /><sub><b>ma7t3</b></sub></a><br /><a href="#content-ma7t3" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://genav.ch"><img src="https://avatars.githubusercontent.com/u/994583?v=4?s=100" width="100px;" alt="Adam Mathieson"/><br /><sub><b>Adam Mathieson</b></sub></a><br /><a href="#content-winer222" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zheka20012"><img src="https://avatars.githubusercontent.com/u/15785537?v=4?s=100" width="100px;" alt="zheka20012"/><br /><sub><b>zheka20012</b></sub></a><br /><a href="#content-zheka20012" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BusfanBayern"><img src="https://avatars.githubusercontent.com/u/131196448?v=4?s=100" width="100px;" alt="BusfanBayern"/><br /><sub><b>BusfanBayern</b></sub></a><br /><a href="#content-BusfanBayern" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

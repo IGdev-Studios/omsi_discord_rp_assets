@@ -60,6 +60,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "BusfanBayern",
+      "name": "BusfanBayern",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131196448?v=4",
+      "profile": "https://github.com/BusfanBayern",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -67,5 +76,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "omsi_discord_rp_assets",
-  "projectOwner": "IGdev-Studios"
+  "projectOwner": "IGdev-Studios",
+  "commitType": "docs"
 }
