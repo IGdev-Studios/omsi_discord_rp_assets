@@ -277,5 +277,47 @@
 			"State1": "Карта: ",
 			"State2": "Маршрут: "
 		}
+	},
+	"es": {
+		"Menu": {
+			"Details": "En el menú",
+			"State": "Eligiendo el mapa"
+		},
+		"Roule": {
+			"Details": "Conduciendo, mapa: ",
+			"NState": "Próxima parada: ",
+			"DState": "Distancia a la siguiente parada: "
+		},
+		"Arret": {
+			"Details": "Autobús parado",
+			"State": "Conducción libre"
+		},
+		"ArretSched_Stop": {
+			"Avance": "Adelanto : ",
+			"Retard": "Retraso :",
+			"Details": "Parada actual : ",
+			"State": "Cantidad de pasajeros a bordo : "
+		},
+		"ArretSched_Roule": {
+			"Details": "Autobús detenido",
+			"NState": "Próxima parada: ",
+			"DState": "Distancia a la siguiente parada: "
+		},
+		"Pause": {
+			"Details": "Juego pausado"
+		},
+		"Default": {
+			"Details": "Jugando OMSI",
+			"State": "Error en el Plugin"
+		},
+		"Image": {
+			"Map": "Conduciendo en el mapa: ",
+			"Ligne": "Conduciendo en la línea: "
+		},
+		"Vehicule": {
+			"Details": "Autobús: ",
+			"State1": "Mapa: ",
+			"State2": "Línea: "
+		}
 	}
 }
