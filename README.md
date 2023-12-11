@@ -13,6 +13,7 @@ Assets for the OMSI 2 discord rich presence
 - svenska: `sv`
 - Deutsch: `de`
 - русский: `ru`
+- Español: `es`
 ---
 
 ## Français:
