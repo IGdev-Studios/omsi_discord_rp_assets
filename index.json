@@ -1,28 +1,31 @@
-//Fichier index avec toutes les map indexes dedans
+//FR : Fichier index avec toutes les map indexes dedans
+//EN : Index file with every indexed maps inside
 {
-	//Example:
-	// "Example": boolean // true - Map name and lines support // false - only map icon
-	"Grand Paris-Moulon": true,
-	"Berny": true,
-	"St-Servan": true,
-	"Haren (semi-real)": true,
-	"Steinkirchen V2": true,
-	"Felsheim V1": true,
-	"Krefrath": true,
-	"Sittingen": true,
-	"Sittingen OMSI 2": true,
-	"Städtedreieck 3": true,
-	"Spitterberg V 4.0": true,
-	"Krummenaab 2019": true,
-	"Landkreis Stein": true,
-	"Region Grundorf V4": true,
-	"Lemmental V3 Updated": true,
-	"Waldhofen":true,
-	"Winsenburg 2015":true,
-	"Amelys": true,
-	"Dusseldorf": true,
-	"Städtedreieck21": true,
-	"Hohenkirchen - Herrenhof": true,
-	"Gerolstein": true
+  //How to : boolean // true - Map name and lines support // false - only map icon
+  // "Example map name who has map icon AND line icons": true
+  // "Another Example map name who only has map icon": false
+  
+  "Amelys": true,
+  "Berny": true,
+  "Dusseldorf": true,
+  "Felsheim V1": true,
+  "Gerolstein": true,
+  "Grand Paris-Moulon": true,
+  "Haren (semi-real)": true,
+  "Hohenkirchen - Herrenhof": true,
+  "Krefrath": true,
+  "Krummenaab 2019": true,
+  "Landkreis Stein": true,
+  "Lemmental V3 Updated": true,
+  "Region Grundorf V4": true,
+  "Sittingen": true,
+  "Sittingen OMSI 2": true,
+  "Spitterberg V 4.0": true,
+  "St-Servan": true,
+  "Städtedreieck21": true,
+  "Städtedreieck 3": true,
+  "Steinkirchen V2": true,
+  "Waldhofen":true,
+  "Winsenburg 2015":true
 }
 
