@@ -319,5 +319,51 @@
 			"State1": "Mapa: ",
 			"State2": "Línea: "
 		}
+	},
+	"ko": {
+		"Menu": {
+			"Details": "메인 메뉴",
+			"State": "맵 고르는 중"
+		},
+		"Roule": {
+			"Details": "운행 중인 맵: ",
+			"NState": "이번 정류장: ",
+			"DState": "정류장까지의 거리: "
+		},
+		"Arret": {
+
+			"Details": "정차 중",
+			"State": "자유 운행"
+		},
+		"ArretSched_Stop": {
+
+			"Avance": "일찍 운행: ",
+			"Retard": "지연 운행: ",
+			"Details": "현재 정류장: ",
+			"State": "탑승 중인 승객: "
+		},
+		"ArretSched_Roule": {
+
+			"Details": "정차 중",
+			"NState": "이번 정류장: ",
+			"DState": "정류장까지의 거리: "
+		},
+		"Pause": {
+
+			"Details": "게임을 중지함"
+		},
+		"Default": {
+			"Details": "OMSI 하는 중",
+			"State": "플러그인 오류"
+		},
+		"Image": {
+			"Map": "운행 중인 맵: ",
+			"Ligne": "운행 중인 노선: "
+		},
+		"Vehicule": {
+			"Details": "차량: ",
+			"State1": "맵: ",
+			"State2": "노선: "
+		}
 	}
 }
