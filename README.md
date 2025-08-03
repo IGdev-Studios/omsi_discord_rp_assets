@@ -1,6 +1,6 @@
 # omsi_discord_rp_assets
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Assets for the OMSI 2 discord rich presence
@@ -88,6 +88,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Adi280804"><img src="https://avatars.githubusercontent.com/u/144605641?v=4?s=100" width="100px;" alt="Adi280804"/><br /><sub><b>Adi280804</b></sub></a><br /><a href="#content-Adi280804" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/aaei924"><img src="https://avatars.githubusercontent.com/u/72678477?v=4?s=100" width="100px;" alt="Hyunseung Park"/><br /><sub><b>Hyunseung Park</b></sub></a><br /><a href="#content-aaei924" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
