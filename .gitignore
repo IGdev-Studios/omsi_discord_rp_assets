@@ -2,6 +2,7 @@
 # Empty, but we never know
 
 old
+*~lock~
 
 # Attribution
 *.by
